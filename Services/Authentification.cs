@@ -63,9 +63,11 @@ namespace JwtApplication.Services
                 Subject = new ClaimsIdentity(new Claim[]
                 {
                     new Claim(ClaimTypes.PrimarySid, user.Id.ToString()),
+                    new Claim(ClaimTypes.Name, user.FirstName+" "+user.LastName),
                     new Claim(ClaimTypes.Role, user.Role.Name),
                     new Claim(ClaimTypes.Email, user.Email),
-                   
+
+      
                 }),
                 Expires = DateTime.UtcNow.AddDays(7),
                 SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
