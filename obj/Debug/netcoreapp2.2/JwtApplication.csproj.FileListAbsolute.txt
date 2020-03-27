@@ -1,0 +1,14 @@
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\bin\Debug\netcoreapp2.2\JwtApplication.deps.json
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\bin\Debug\netcoreapp2.2\JwtApplication.runtimeconfig.json
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\bin\Debug\netcoreapp2.2\JwtApplication.runtimeconfig.dev.json
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\bin\Debug\netcoreapp2.2\JwtApplication.dll
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\bin\Debug\netcoreapp2.2\JwtApplication.pdb
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.csprojAssemblyReference.cache
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.csproj.CoreCompileInputs.cache
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.RazorAssemblyInfo.cache
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.RazorAssemblyInfo.cs
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.AssemblyInfoInputs.cache
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.AssemblyInfo.cs
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.RazorTargetAssemblyInfo.cache
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.dll
+C:\Users\HaythemLP\source\repos\JwtApplication\JwtApplication\obj\Debug\netcoreapp2.2\JwtApplication.pdb
